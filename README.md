@@ -4,10 +4,8 @@
 **Description:**  
 This project involves the normalization of a database for a car registry for the year 2022. The goal is to create a relational database with an optimized structure that facilitates the storage of information about cars, their properties, and registration operations.
 
-**Files:**
-- `schema.sql`: SQL script for creating database tables.
-- `README.md`: Project documentation.
-- `data/`: Directory for CSV files or other data for populating the database (if applicable).
+**Technologies:** PostgreSQL, SQL
+
 ### Diagram
 ![Cars - public](https://github.com/user-attachments/assets/2227c892-7e97-4e65-be09-e360040d3168)
 
@@ -79,21 +77,12 @@ This project involves the normalization of a database for a car registry for the
     - `kind`: Vehicle type.
     - `kind_id`: Type identifier (primary key).
 
-**Documentation:**
-- The `README.md` file contains information on installation, setup, and usage of the database, along with examples of queries to demonstrate its capabilities.
 
-### Resume Description
 
-**Project:** Car Registry Database Normalization for 2022
 
-**Description:** Developed a relational database for the 2022 car registry, focusing on data normalization to improve structure and reduce data redundancy. The project involves designing and optimizing tables to store information about vehicles, their attributes, and registration operations.
 
-**Key Elements:**
-- **Database Normalization:** Applied normalization techniques to reduce data duplication and ensure database integrity.
-- **Table Design:** Created tables to store information on vehicles, models, colors, body types, purposes, fuel types, and vehicle kinds.
-- **Implementation:** Used SQL to define table structures, set primary and foreign keys, and establish relationships between tables.
-- **Documentation:** Provided comprehensive documentation for easy deployment and use of the database.
 
-**Technologies:** PostgreSQL, SQL
+*Source*
+[CSV files](https://drive.google.com/drive/folders/1xuRn2bV-rB0Hzxl2tt38Rzud4b6zCOFZ?usp=sharing)
+[DataSet](https://data.gov.ua/dataset/06779371-308f-42d7-895e-5a39833375f0)
 
-This project demonstrates proficiency in designing and normalizing relational databases, an essential skill for any data-related role.
