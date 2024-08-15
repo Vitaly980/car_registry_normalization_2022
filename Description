@@ -1,0 +1,17 @@
+
+
+###Description
+
+**Project:** Car Registry Database Normalization for 2022
+
+**Description:** Developed a relational database for the 2022 car registry, focusing on data normalization to improve structure and reduce data redundancy. The project involves designing and optimizing tables to store information about vehicles, their attributes, and registration operations.
+
+**Key Elements:**
+- **Database Normalization:** Applied normalization techniques to reduce data duplication and ensure database integrity.
+- **Table Design:** Created tables to store information on vehicles, models, colors, body types, purposes, fuel types, and vehicle kinds.
+- **Implementation:** Used SQL to define table structures, set primary and foreign keys, and establish relationships between tables.
+- **Documentation:** Provided comprehensive documentation for easy deployment and use of the database.
+
+**Technologies:** PostgreSQL, SQL
+
+This project demonstrates proficiency in designing and normalizing relational databases, an essential skill for any data-related role.
