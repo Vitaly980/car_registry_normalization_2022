@@ -9,7 +9,8 @@ This project involves the normalization of a database for a car registry for the
 - `README.md`: Project documentation.
 - `data/`: Directory for CSV files or other data for populating the database (if applicable).
 ### Diagram
-![Database Diagram](path/to/your/diagram.png)  
+![Cars - public](https://github.com/user-attachments/assets/2227c892-7e97-4e65-be09-e360040d3168)
+
 **Key Tables:**
 1. **`cars_2022`**  
    Stores information about cars and their registration details.
