@@ -7,7 +7,7 @@ This project involves the normalization of a database for a car registry for the
 **Technologies:** PostgreSQL, SQL
 
 ### Diagram
-![Cars - public](https://github.com/user-attachments/assets/2227c892-7e97-4e65-be09-e360040d3168)
+![Cars - public](https://github.com/user-attachments/assets/d2b608fe-f026-43b5-a0c1-c422d3ef6883)
 
 **Key Tables:**
 1. **`cars_2022`**  
